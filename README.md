@@ -10,7 +10,7 @@ I hope to have a lasting careeer in quant finance and am currently working towar
 - MATH 1600 Linear algebra 
 - STATS 2858 Probability and statistics 
 - put-call symmetry and the binomial model's applications on it 
-- identifing mispricing and calculating a sharpe ratio for my option pricer 
+- identifying mispricing and calculating a sharpe ratio for my option pricer 
 
 ## Previous Courses 
 - FINMOD 2557 Financial Markets and Investing (financial derivative valuation)
