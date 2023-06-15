@@ -4,4 +4,4 @@ I'm a rising senior student at Western University in London, Ontario currently s
 an honours double major in accounting and applied statistics. I enjoy using languages such as Python and SQL, 
 and I am currently learning R and C++ too. 
 
-I hope to have a lasting careeer in quant finance and am currently working towards building relevant skills.
+I hope to have a lasting career in quant finance and am currently working towards building relevant skills.
