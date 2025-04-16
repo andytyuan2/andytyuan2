@@ -1,5 +1,7 @@
 # Hi, I’m Andy 👋
 
+I'm always looking for exciting opportunities!
+
 ## Experience 
 
 - Advisor Channel Sales Analyst at RBC Global Asset Management (8 month co-op)
