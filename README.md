@@ -23,3 +23,4 @@ I'm always looking for exciting opportunities!
 - Corporate finance
 - Investment Analysis
 - IFRS/ASPE accounting standards
+- Spatial statistics
