@@ -2,6 +2,8 @@
 
 I'm always looking for exciting opportunities!
 
+Feel free to take a look around my profile for the projects I have completed during my undergraduate degree, both in class and for fun.
+
 ## Experience 
 
 - Advisor Channel Sales Analyst at RBC Global Asset Management (8 month co-op)
