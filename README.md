@@ -1,6 +1,6 @@
 # Hi, I’m Andy 👋
 
-I'm currently looking for exciting opportunities!
+I'm currently looking for exciting opportunities in **machine learning**, **quantitative analytics**, **financial quantitative research**, **portfolio management**, and **statistics research**!
 
 Feel free to take a look around my profile for the projects I have completed during my undergraduate degree, both in class and for fun. New projects coming soon!
 
