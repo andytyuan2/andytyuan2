@@ -5,10 +5,10 @@ I'm currently looking for exciting opportunities!
 Feel free to take a look around my profile for the projects I have completed during my undergraduate degree, both in class and for fun. New projects coming soon!
 
 ## Experience 💵
-- Advisor Channel Sales Analyst at RBC Global Asset Management (8 month co-op)
-  - Skills used: Salesforce, Excel, investment analysis, data engineering, VBA programming, SQL queries
-- Market Risk Associate at TD Securities (4 month internship)
-  - Skills used: Python programming, Excel, Tableau reporting, risk analysis & modelling, data engineering
+- Advisor Channel Sales Analyst at RBC Global Asset Management (8 month co-op) 2023 - 2024
+  - Skills used: Salesforce, Excel, Investment analysis, Data engineering, VBA programming, SQL queries
+- Market Risk Associate at TD Securities (4 month internship) 2024
+  - Skills used: Python programming, Excel, Tableau reporting, Risk analysis & modelling, Data engineering
  
 ## Education 📚
 - Western University 🐎
