@@ -14,6 +14,7 @@ Feel free to take a look around my profile for the projects I have completed dur
 ## Education
 - Western University
   - Honours Double Major in Applied Statistics & Accounting
+  - Won the **Western Gold Medal** for both majors (Highest graduating average)
 
 ### Topics I have learned include:
 
