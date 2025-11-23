@@ -17,5 +17,5 @@
 |changing column type|```df["column'] = pd.to_numeric(df["column"], errors = "coerce")```|```df.with_columns(pl.col("column").cast(pl.Float62, strict = False).alias("column")```|
 |adding columns based on another column|```df.loc[:, "goal_column"] = df["source"].multiply(1000)```|```df.with_columns((pl.col("source") * 1000).alias("goal column")```|
 |transforming only some rows in a column|```df.loc[condition, "source"] = "change value"```|```df.with_columns(pl.when(filtering/condition).then(change value).otherwise(pl.col("source")).alias("source")```|
-|lazy execution|not available|for csv: ```pl.scan_csv().transformations.collect()```<br/> for excel: ```df = pl.read_excel()```, ```lazy = df.to_lazy()```, ```lazy.transformations.collect()```|
+|lazy execution|not available|for csv: ```pl.scan_csv().transformations.collect()```<br/> for excel: ```df = pl.read_excel()```, ```lazy = df.to_lazy()```, ```final = lazy.transformations.collect()```|
 |date format change|```df[goal column] = pd.to_datetime(df[source], format = "%Y-%m-%d 00:00:00", errors = "coerce").dt.strftime("%#m/%#d/%Y")```|```df = df.with_columns(pl.col("source").str.strptime(pl.Datetime, "%Y-%m-%d %H:%M:%S", strict = False).dt.strftime("%-m/%-d/%Y").alias(goal column)```|
