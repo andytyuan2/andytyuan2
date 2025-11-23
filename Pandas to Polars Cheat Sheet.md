@@ -6,6 +6,7 @@
 
 > ```df = df.filter(pl.col("column") == value).with_columns().select(),etc```
 > Can have multiple pl.when.then before any .otherwise.alias, so long as they have the same otherwise and goal column
+> polars does not have format inference like pandas, so you need to specify the format
 
 
 | **Function** | **Pandas** | **Polars** |
