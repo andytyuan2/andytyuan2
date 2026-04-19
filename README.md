@@ -7,7 +7,8 @@ Feel free to take a look around my profile for the projects I completed during m
 ## Experience 💵
 - Product Control Analyst at TD Securities (Full time)
   - Year(s): 2025 - Present
-  - Python programming, Excel, Power BI
+  - Python programming, Excel, Power BI, Polars
+  - Data engineering initiatives, workflow automation
 - Market Risk Associate at TD Securities (4 month internship)
   - Year(s): 2024
   - Skills used: Python programming, Excel, Tableau, Risk analysis & modelling, Data engineering
