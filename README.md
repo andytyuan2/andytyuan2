@@ -2,7 +2,7 @@
 
 I'm currently working at TD Securities as a Product Control Analyst. 
 
-Feel free to take a look around my profile for the projects I completed during my undergraduate degree, both in class and for fun. New projects coming soon!
+Feel free to take a look at some projects, both in class and for fun. New projects coming soon!
 
 ## Experience 💵
 - Product Control Analyst at TD Securities (Full time)
